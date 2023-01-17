@@ -1,0 +1,9 @@
+{
+  "name": "modern-error-quokka",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "modern-errors": "^5.5.0",
+    "vite-node": "^0.27.2"
+  }
+}
